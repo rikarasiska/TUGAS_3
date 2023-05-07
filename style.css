@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-display: georgia;
+    text-shadow : 2px 2px 1px grey;
+    font size : 200%
+}
+h2{
+    color : greenyellow;
+    font-display: comic sans;
+    font size : 150%
+}
+h3{
+    color : blue;
+    font-display : Arial;
+    font size : 150%
+}
+h5{
+    text-align: right;
+}
